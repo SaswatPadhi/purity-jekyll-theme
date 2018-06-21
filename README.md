@@ -1,5 +1,9 @@
 # [Purity] [![Build Status](https://travis-ci.org/SaswatPadhi/purity-jekyll-theme.svg?branch=gh-pages)](https://travis-ci.org/SaswatPadhi/purity-jekyll-theme)
 
+<p align='center'><b>
+.:ARCHIVED - Please fork and edit https://github.com/SaswatPadhi/saswatpadhi.github.io directly. - ARCHIVED:.
+</b></p>
+
 Meet [Purity] - a clean, blazing-fast, highly configurable theme for [Jekyll].
 
 Why [Purity]?
